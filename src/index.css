@@ -1,0 +1,18 @@
+body {
+    background: rgb(204, 204, 204);
+}
+
+
+.hero-page .col-4, .col-8 {
+    height: 300px;
+}
+
+.hero-page .card {
+    height: 100%;
+}
+
+.hero-page .card .col-4 {
+    display: flex;
+    align-items: flex-start;
+    padding: 1rem 0 0 2rem;
+}
